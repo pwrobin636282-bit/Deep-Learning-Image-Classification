@@ -37,6 +37,12 @@ The models were trained and tested on different datasets to study how their perf
 | VGG16 | CIFAR-100 | 52.46% |
 | AlexNet | CIFAR-100 | 50.26% |
 
+## Model Comparison
+
+The following figure compares the final accuracy of all three models on the CIFAR-100 dataset.
+
+![Model Comparison](images/model_comparison.png)
+
 ## Project Structure
 
 ```
