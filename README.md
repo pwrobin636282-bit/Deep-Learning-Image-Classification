@@ -41,7 +41,7 @@ The models were trained and tested on different datasets to study how their perf
 
 The following figure compares the final accuracy of all three models on the CIFAR-100 dataset.
 
-![Model Comparison](images/model_comparison.png)
+![Model Comparison](images/Model_Comparison.png)
 
 ## Project Structure
 
